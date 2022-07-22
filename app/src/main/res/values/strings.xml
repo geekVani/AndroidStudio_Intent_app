@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Arishti_App</string>
+    <string name="login_page">Login Page</string>
+    <string name="enter_contact_number">Enter contact number</string>
+    <string name="login">Login</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_postal_address">Enter postal address</string>
+    <string name="enter_your_text_here">---Enter your text here---</string>
+    <string name="add">ADD</string>
+    <string name="remote_data">Remote Data</string>
+</resources>
